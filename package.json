@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend tutorial",
+  "homepage": "https://github.com/aryanaggarwal121207-a11y/webdev#readme",
+  "bugs": {
+    "url": "https://github.com/aryanaggarwal121207-a11y/webdev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanaggarwal121207-a11y/webdev.git"
+  },
+  "license": "ISC",
+  "author": "Aryan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.3.0"
+  }
+}
